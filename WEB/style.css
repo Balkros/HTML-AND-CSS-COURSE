@@ -17,6 +17,10 @@
 
 /*NAV MENU*/
 
+.logo{
+    width: 120px;
+}
+
 nav{
     display: flex;
     padding: 2% 6%;
@@ -25,7 +29,8 @@ nav{
 }
 
 nav img{
-    width: 150px;
+    padding-top: 30px;
+    width: 120px;
 
 }
 
